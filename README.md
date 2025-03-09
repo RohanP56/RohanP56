@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Pramanik</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 📫 How to reach me **rohanpramanik58@gmail.com**
+- ✉︎ How to reach me **rohanpramanik58@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1yyYls8wCFw2RYGvXRpP0RvX_3APneA2L?usp=sharing](https://drive.google.com/drive/folders/1yyYls8wCFw2RYGvXRpP0RvX_3APneA2L?usp=sharing)
+- 📝 Know about my experiences [https://drive.google.com/drive/folders/1yyYls8wCFw2RYGvXRpP0RvX_3APneA2L?usp=sharing](https://drive.google.com/drive/folders/1yyYls8wCFw2RYGvXRpP0RvX_3APneA2L?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
